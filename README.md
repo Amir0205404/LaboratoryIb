@@ -2,7 +2,7 @@
 <div align="center">
     <h1>Динамическое сегментирование пользователей</h1>
 </div>
-
+https://github.com/breeeaaad/dynamic-segmentation.git
 ---
 
 ## Используемые библиотеки и фреймворки:
@@ -52,6 +52,7 @@ make stop
 <div align="center">
     <h1>backend-service java</h1>
 </div>
+https://github.com/Muharsul05/backend-service
 
 ## Дополнительно:
 
